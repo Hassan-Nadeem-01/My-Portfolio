@@ -33,7 +33,7 @@
   --border-subtle: rgba(30, 41, 59, 0.5);
   --border-strong: rgba(30, 41, 59, 0.8);
 
-  --font-display: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;   /* headings */
+  --font-display: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;   /* headings */
   --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;      /* paragraphs */
   --font-mono: 'JetBrains Mono', monospace;      /* labels, tags, tech chips */
 
@@ -290,7 +290,7 @@ main, .nav, .footer {
 
 .nav__mark {
   font-family: var(--font-display);
-  font-weight: 800;
+  font-weight: 700;
   font-size: 19px;
   letter-spacing: -0.03em;
   color: var(--text-primary);
@@ -576,7 +576,7 @@ main, .nav, .footer {
 
 .hero__headline {
   font-family: var(--font-display);
-  font-weight: 800;
+  font-weight: 700;
   font-size: clamp(36px, 4.5vw, 56px);
   line-height: 1.12;
   letter-spacing: -0.03em;
@@ -703,7 +703,7 @@ main, .nav, .footer {
   align-items: center;
   justify-content: center;
   font-family: var(--font-display);
-  font-weight: 800;
+  font-weight: 700;
   font-size: 36px;
   color: var(--text-primary);
   background: linear-gradient(160deg, #101827, #080D17);
@@ -778,7 +778,7 @@ main, .nav, .footer {
   background: var(--accent-gradient);
   color: #ffffff;
   font-family: var(--font-display);
-  font-weight: 800;
+  font-weight: 700;
   font-size: 16px;
   display: flex;
   align-items: center;
@@ -861,7 +861,7 @@ main, .nav, .footer {
 
 .dev-card__stat-number {
   font-family: var(--font-display);
-  font-weight: 800;
+  font-weight: 700;
   font-size: 14.5px;
   color: var(--text-primary);
   background: var(--text-gradient);
@@ -926,7 +926,7 @@ main, .nav, .footer {
 
 .section__head h2 {
   font-family: var(--font-display);
-  font-weight: 800;
+  font-weight: 700;
   font-size: clamp(28px, 3.5vw, 42px);
   line-height: 1.2;
   margin: 0;
@@ -1317,7 +1317,7 @@ main, .nav, .footer {
 
 .project-card__title {
   font-family: var(--font-display);
-  font-weight: 800;
+  font-weight: 700;
   font-size: 25px;
   margin-bottom: 4px;
   color: var(--text-primary);
@@ -1407,7 +1407,7 @@ main, .nav, .footer {
 
 .metric-chip__val {
   font-family: var(--font-display);
-  font-weight: 800;
+  font-weight: 700;
   font-size: 15px;
   color: var(--accent-emerald);
 }
@@ -1677,7 +1677,7 @@ main, .nav, .footer {
 
 .contact__card h2 {
   font-family: var(--font-display);
-  font-weight: 800;
+  font-weight: 700;
   font-size: clamp(30px, 4.2vw, 46px);
   line-height: 1.15;
   letter-spacing: -0.02em;
@@ -1812,7 +1812,7 @@ main, .nav, .footer {
 
 .footer__name {
   font-family: var(--font-display);
-  font-weight: 800;
+  font-weight: 700;
   font-size: 32px;
   margin: 0;
   letter-spacing: -0.02em;
